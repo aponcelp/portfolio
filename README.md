@@ -2,7 +2,7 @@
 
 I was Director of Strategy & Operations for Customer Success at DoorLoop, a property management software company. Alongside running operations, I built the tools that Support, Onboarding and Customer Success ran on, designed the AI agents and automations behind them, and wrote the operating plans for leadership.
 
-In my last year that came to about 9 deployed internal apps, 50+ interactive analyses and decision documents, and 10+ families of workflow automations.
+In my last year that came to more than 10 deployed internal apps, 50+ interactive analyses and decision documents, and 10+ families of workflow automations.
 
 This repo describes that work: the problem behind each piece, how I built it, and the decisions I would explain in an interview.
 
@@ -24,6 +24,7 @@ This repo describes that work: the problem behind each piece, how I built it, an
 | 9 | [Onboarding Cadence App](projects/09-onboarding-cadence-app.md) | Weekly onboarding KPIs with a Monday agenda that shows only what deserves discussion | Node, Express, Postgres |
 | 10 | [Success Plan Generator](projects/10-success-plan-generator.md) | AI-personalised, customer-facing onboarding plans from account data and specialist notes | Vanilla JS, Express, Claude API |
 | 11 | [Training, webinar and campaign-link tools](projects/11-training-and-webinar-dashboards.md) | Training-site analytics, a webinar funnel and a UTM link builder | Express, Chart.js, PostHog, Livestorm |
+| 16 | [Comp and quota engine](projects/16-comp-and-quota-engine.md) | CS quotas derived from book data, an onboarding commission measured at day 90, and an AI outbound engine | Node, Postgres, CRM APIs |
 
 ## Beyond the apps
 
