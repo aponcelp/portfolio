@@ -33,6 +33,12 @@ This repo describes that work: the problem behind each piece, how I built it, an
 | 13 | [Analysis and live dashboards](projects/13-analysis-and-dashboards.md) | Retention deep dives, trend-or-anomaly checks, operations metrics, research tools |
 | 14 | [Strategy and operating design](projects/14-strategy-and-operating-design.md) | Operating models, executive reviews, data contracts, risk redesign, competitive research |
 
+## Case studies
+
+| # | Case | What it covers |
+|---|---|---|
+| 15 | [Farm starting balances (Ambrook)](projects/15-case-ambrook-starting-balances.md) | Product Operations take-home: why balance sheet setup goes wrong, and an AI-plus-rules review pipeline to fix it |
+
 ## How I build
 
 These patterns show up across the work:
