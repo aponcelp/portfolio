@@ -1,12 +1,20 @@
-# Alfredo Ponce de León — work at DoorLoop (2024 – 2026)
+# Alfredo Ponce de León — work at DoorLoop (2024 – present)
 
-I was Director of Strategy & Operations for Customer Success at DoorLoop, a property management software company. Alongside running operations, I built the tools that Support, Onboarding and Customer Success ran on, designed the AI agents and automations behind them, and wrote the operating plans for leadership.
+I'm the GTM Strategy & Operations Manager at DoorLoop, a property management software company. Alongside running operations, I built the tools that Support, Onboarding and Customer Success ran on, designed the AI agents and automations behind them, and wrote the operating plans for leadership.
 
-In my last year that came to more than 10 deployed internal apps, 50+ interactive analyses and decision documents, and 10+ families of workflow automations.
+Over the past year that has come to more than 10 deployed internal apps, 50+ interactive analyses and decision documents, and 10+ families of workflow automations.
 
 This repo describes that work: the problem behind each piece, how I built it, and the decisions I would explain in an interview.
 
 **There is no DoorLoop code or data in this repo.** The source code, documents and data belong to DoorLoop and stay there. Every page here was written from scratch. Any numbers are illustrative, and any screenshots use synthetic data.
+
+## Start here
+
+Short on time? These three show the range best:
+
+1. [Churn and Revenue Forecast](projects/02-churn-revenue-forecast.md): a layered forecast that scores itself once each month closes.
+2. [Customer Commander](projects/07-customer-commander.md): a prototype of the CSM workspace for an AI agent system.
+3. [AI agents and automations](projects/12-ai-agents-and-automations.md): agent contracts, a refinement board, and 10+ automation families.
 
 ## Apps
 
