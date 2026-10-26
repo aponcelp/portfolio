@@ -12,7 +12,7 @@ Besides the apps, I designed AI agents and ran a set of workflow automations in 
   - an onboarding call-coverage agent (are the right modules covered on calls?)
   - a verification agent that prepares a risk reviewer's checklist without making the decision
   - playbook and upsell engines that choose the next action for an account
-- **Prototypes** of the agent system for CSMs and onboarding ([project 7](07-agent-system-prototypes.md)).
+- **Prototypes** of the agent system: [Customer Commander](07-customer-commander.md) for CSMs and [Onboarding Commander](07b-onboarding-commander.md) for onboarding.
 
 ## Automation families
 

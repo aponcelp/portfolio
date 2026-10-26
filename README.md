@@ -18,7 +18,8 @@ This repo describes that work: the problem behind each piece, how I built it, an
 | 4 | [Support QA](projects/04-support-qa.md) | Monthly chat sampling, AI-assisted scoring and scorecards that feed coaching | React, Express, Intercom API, Postgres, n8n |
 | 5 | [Support 1:1 Hub](projects/05-support-1on1-hub.md) | 1:1 notes, action items and QA targets with role-based access | Node, Express, Postgres, Google OAuth |
 | 6 | [Website Studio](projects/06-website-studio.md) | One board for the customer website pipeline, with AI first drafts of site copy | Node, Express, Salesforce, Claude API |
-| 7 | [CX Agent System prototypes](projects/07-agent-system-prototypes.md) | Clickable prototypes that showed CSMs and Onboarding how an AI agent system would work | React, TypeScript, Tailwind, Recharts |
+| 7 | [Customer Commander](projects/07-customer-commander.md) | Prototype of the CSM workspace for an AI agent system: book, 2×2 portfolio, agent tasks, playbooks ranked by results | React, TypeScript, Tailwind, Recharts |
+| 7b | [Onboarding Commander](projects/07b-onboarding-commander.md) | The onboarding sibling: daily must-dos by role, activation 2×2, customer-facing success plans, agent library | React, TypeScript, Tailwind, Recharts |
 | 8 | [CSM bonus dashboard (contributions)](projects/08-csm-bonus-dashboard.md) | My changes to a teammate's dashboard: churn rules, activity minutes, deploy pipeline | Next.js, Salesforce, GitHub Actions |
 | 9 | [Onboarding Cadence App](projects/09-onboarding-cadence-app.md) | Weekly onboarding KPIs with a Monday agenda that shows only what deserves discussion | Node, Express, Postgres |
 | 10 | [Success Plan Generator](projects/10-success-plan-generator.md) | AI-personalised, customer-facing onboarding plans from account data and specialist notes | Vanilla JS, Express, Claude API |
